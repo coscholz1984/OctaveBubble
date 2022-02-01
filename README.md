@@ -1,6 +1,8 @@
 # OctaveBubble
 
-This is an implementation of the bubble shooter genre, well known by games such as Bust-a-Move (Puzzle Bobble) or Frozen Bubble, written in GNU Octave.
+This is an implementation of the bubble shooter genre, well known by games such as Bust-a-Move (Puzzle Bobble) or Frozen Bubble, written in GNU Octave. Unfortunatly it's just a little bit too slow to be enjoyable (in 2022) ;)
+
+![Screenshot of OctaveBubble](https://github.com/coscholz1984/OctaveBubble/blob/master/Screenshot.jpg?raw=true)
 
 # Howto
 
